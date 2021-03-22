@@ -7,7 +7,12 @@
 public class Application {
 
     public static void main(String[] args) {
-        System.out.println("Hello world from UTP Java course!");
+        String tittle = "My first application";
+        counter +=1;
+
+        test a = new Test();
+        TestExtension b = new TestExtension();
+        System.out.println("Hello world from UTP Java course " + counter);
     }
 }
 

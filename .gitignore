@@ -12,5 +12,6 @@
 # my private stuff
 /src/main/my_private/
 /src/main/my_private/*
-
+.idea/
+out/
 .gitignore
