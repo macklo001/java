@@ -1,0 +1,15 @@
+.idea
+.idea/
+/workspace.xml
+out/
+*.iml
+/shelf/
+# my private stuff
+/src/mai/src/main/my_private/n/my_private/
+/src/mai/src/main/my_private/n/my_private/*
+.gradle/
+#Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
